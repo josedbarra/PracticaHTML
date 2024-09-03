@@ -1,0 +1,36 @@
+h2{
+    text-align: center;
+}
+
+.estados{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.estado{
+    background-color: aliceblue;
+    border: solid;
+    border-color: blue;
+    border-radius: 15px;
+}
+
+.receta {
+    background-color: palegoldenrod;
+    border: solid;
+    border-color: peru;
+    border-radius: 15px;
+}
+
+.carreras{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.carrera{
+    background-color: palegreen;
+    border: solid;
+    border-color: black;
+    border-radius: 15px;
+}
